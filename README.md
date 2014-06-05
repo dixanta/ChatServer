@@ -3,5 +3,5 @@ ChatServer
 
 Java based Chat Server and Client
 
-Programmer: Dixanta Bahadur Shrestha 
+Programmer: Dixanta Bahadur Shrestha, 
             Anil Awale
